@@ -1,0 +1,11 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+body {
+    padding: 50px;
+    font: 14px 'Open Sans', sans-serif;
+    word-wrap: break-word;
+    background-color: #eeeeee;
+    min-width: 718px;
+}
